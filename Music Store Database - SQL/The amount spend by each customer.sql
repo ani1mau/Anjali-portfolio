@@ -1,4 +1,4 @@
--- Find how much amount is spend by each customer on artists. Return customer name, artist name and total spend
+--The amount spend by each customer on artists. Return customer name, artist name and total spend
 
 SELECT c.first_name AS Customer, SUM(il.unit_price*il.quantity) AS Total_Spend, at.name
 FROM customer c 
