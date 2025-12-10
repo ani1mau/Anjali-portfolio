@@ -8,24 +8,21 @@ It includes excel, sql datasets, reports, and Power BI dashboards — all reflec
 
 ## 📁 Repository Structure
 
-### 🔹 1. Data Science – British Airways
-**Content:** Task 1 & 2 with Python code, dataset, and final business report  
-**Focus Areas:** Customer behavior prediction, EDA, model building  
-**Skills Used:** Python, Pandas, Scikit-learn, Classification models, Report writing
+### 🔹 1. Budget Variance Analysis (Power BI) 
+**Focus Areas:** Sales Performance, sales variance and budget percentage
+**Skills Used:** Data Modeling, Transformation, and DAX measures, Dashboard
 
 ---
 
-### 🔹 2. Google Play Store Data Analytics
-**Content:** Python code, dataset, and final report  
-**Focus Areas:** App performance analysis, user behavior, trend identification  
-**Skills Used:** Python, EDA, Data Cleaning, Visualization, Business Analytics
+### 🔹 2. Call Center Data Analysis (Excel) 
+**Focus Areas:**  key performance indicators (KPIs) and trends  
+**Skills Used:**  EDA, Data Cleaning, Visualization, Dashboard
 
 ---
 
-### 🔹 3. Quantium Data Analytics Virtual Internship
-**Content:** Tasks 1 & 2 with strategic report, Python scripts, and datasets  
-**Focus Areas:** Customer analytics, uplift testing, store performance analysis  
-**Skills Used:** Python, Pandas, Matplotlib, Control store selection, Strategic reporting
+### 🔹 3. Music Store Database (SQL)  
+**Focus Areas:** extract, clean, and analyze music store sales data to answer key business questions 
+**Skills Used:** SQL- joins, aggregations, and window functions.
 
 
 ---
@@ -33,7 +30,7 @@ It includes excel, sql datasets, reports, and Power BI dashboards — all reflec
 ## 📌 Upcoming Additions
 More course-based projects and case studies will be added soon, including:
 
-- Python data anlaysis 
+- Data anlaysis using Python
 - Time-Series Forecasting  
 
 ---
