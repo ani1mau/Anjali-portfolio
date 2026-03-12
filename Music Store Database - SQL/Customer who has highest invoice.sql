@@ -1,4 +1,4 @@
--- customer who send most money
+-- customer who spend most money
 
 SELECT i.customer_id, c.first_name, c.last_name, SUM(i.total) AS Total_Spend
 FROM invoices i
